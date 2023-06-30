@@ -12,7 +12,15 @@ https://github.com/joseph-elf/CloudChamber/assets/61538081/f073206e-9690-4b51-98
 
 
 ### First Results
-Some particles, probably Alpha and Beta are visible :
+Some particles, probably Alpha and Beta are visible ( result are nor yet impressive...) :
+
+
+
+https://github.com/joseph-elf/CloudChamber/assets/61538081/c307b3ba-bebe-401e-8bbf-b999b05e472c
+
+
+https://github.com/joseph-elf/CloudChamber/assets/61538081/ed062bf9-1698-4172-b973-77dfc0892fe2
+
 
 
 
