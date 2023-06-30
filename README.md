@@ -5,6 +5,12 @@ I use 8 TEC1-12706, 4 on 12v and 4 or 6v to cool an aluminium plate. Watercoolin
 Inside a glass box, isopropanol alcohol is injected and a stable gradient of temperature is achieved.
 Some ouraline glass is placed and some trace are visible.
 
+
+
+
+https://github.com/joseph-elf/CloudChamber/assets/61538081/f073206e-9690-4b51-9855-b84168ec0f57
+
+
 ### First Results
 Some particles, probably Alpha and Beta are visible :
 
