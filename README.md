@@ -12,8 +12,12 @@ https://github.com/joseph-elf/CloudChamber/assets/61538081/f073206e-9690-4b51-98
 
 
 ### First Results
-Some particles, probably Alpha and Beta are visible ( result are nor yet impressive...) :
+I manage to obtain a good fog :
 
+https://github.com/joseph-elf/CloudChamber/assets/61538081/ab0050d4-4f51-496d-a727-a52ebc183e56
+
+
+Some particles, probably Alpha and Beta are visible ( result are nor yet impressive...) :
 
 
 https://github.com/joseph-elf/CloudChamber/assets/61538081/c307b3ba-bebe-401e-8bbf-b999b05e472c
